@@ -36,7 +36,7 @@ const Header=()=> {
                     <ul className="flex bg-white flex-col rounded-b group-hover:shadow group-hover:py-2 group-hover:border border-transparent duration-500 group-hover:border-slate-200 group-hover:max-h-64 max-h-0 overflow-hidden">
 
                       <li className="px-3 py-2 whitespace-pre text-base cursor-pointer hover:text-blue-600 duration-2000 text-#00616c">
-                      <Link href={"/Courses/WMD"}>
+                      <Link href={"/Courses/Wmd"}>
                       Web 3.0 Metaverse and Developers
                       </Link>
                       </li>
