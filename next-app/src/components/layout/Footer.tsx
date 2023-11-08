@@ -56,7 +56,6 @@ const Footer = () => {
                     </div>
                 </div>
         </Wrapper>
-        <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     </footer>
   )
 }
